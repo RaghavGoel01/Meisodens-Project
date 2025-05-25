@@ -38,12 +38,23 @@ cd mesiodens-detection
 ```
 ### 2. Set Up Virtual Environment (Recommended)
 
+```
 python -m venv venv
-# On Windows:
+```
+
+#### On Windows:
+
+```
 venv\Scripts\activate
-# On macOS/Linux:
+```
+#### On macOS/Linux:
+
+```
 source venv/bin/activate
+```
 
 ### 3. Install Requirements
 
+```
 pip install -r requirements.txt
+```
